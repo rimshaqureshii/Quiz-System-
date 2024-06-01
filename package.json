@@ -1,0 +1,19 @@
+{
+  "name": "my_quiz_system_project ",
+  "version": "2.0.2",
+  "description": "\"Test your knowledge and skills with our interactive quiz system, where every question is a challenge and every answer is a triumph!\"",
+  "main": "index.js",
+  "type": "module",
+  "bin": "Quiz_system .js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "install": "^0.13.0"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
